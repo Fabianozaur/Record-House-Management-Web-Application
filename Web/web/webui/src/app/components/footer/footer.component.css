@@ -1,0 +1,53 @@
+fa-icon {
+  color: #CECECE;
+}
+
+fa-icon:hover {
+  color: white;
+}
+
+li {
+  padding: 14px;
+}
+
+.play {
+  color: white;
+}
+
+.progress {
+  border-radius: 30px;
+  height: 4px;
+  background-color: #676767;
+}
+
+.progress-bar {
+  background-color: #CECECE;
+  border-radius: 30px;
+}
+
+.progress-bar:hover {
+  background-color: #9198FF;
+}
+
+.duration {
+  margin-bottom: 10px;
+}
+
+.song, .artist {
+  padding-left: 15px;
+  margin: unset;
+}
+
+.song {
+  font-size: 15px;
+}
+
+.artist {
+  font-size: 10px;
+}
+
+.fixed-bottom {
+  background-color: #222222;
+  border-top: solid #3E3E3E 1px;
+}
+

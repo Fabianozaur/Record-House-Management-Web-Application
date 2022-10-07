@@ -1,0 +1,18 @@
+.navbar {
+  background-color: black;
+}
+
+a {
+  color: #CECECE;
+}
+
+a:hover {
+  color: white;
+}
+
+.dropdown-menu {
+  background-color: black;
+}
+ngbNavLink{
+  color:blue;
+}

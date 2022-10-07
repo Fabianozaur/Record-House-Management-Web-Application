@@ -1,0 +1,28 @@
+<div class="container-fluid h-100">
+  <br>
+  <h2 class="text-center">Add new song</h2>
+  <br>
+
+  <form [formGroup]="playlistGroup" (ngSubmit)="addPlaylist()">
+    <div class="form-group">
+      <label for="name"> Playlist Name: </label>
+      <input type="text" formControlName="name" id="name" class="form-control" placeholder="Enter playlist name">
+      <div *ngIf="!playlistGroup.controls.name.valid"
+           class="alert">
+        Name is required
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="isPublic"> Duration: </label>
+      <input type="text" formControlName="isPublic" id="isPublic" class="form-control" placeholder="Enter true or false">
+      <div *ngIf="!playlistGroup.controls.isPublic.valid"
+           class="alert">
+        isPublic is required!
+      </div>
+    </div>
+    <div class="text-center">-->
+      <button type="button" class="btn btn-outline-light btn-lg mr-2" (click)="goToList()">Back</button>
+      <button type="submit" [disabled]="!playlistGroup.valid" class="btn btn-outline-light btn-lg ml-2">Add</button>
+    </div>
+  </form>
+</div>

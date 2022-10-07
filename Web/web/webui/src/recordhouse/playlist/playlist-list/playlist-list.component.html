@@ -1,0 +1,45 @@
+<div class="artist-container container-fluid">
+  <br>
+  <div class="filter">
+    <fa-icon [icon]="faSearch" class="mr-3"></fa-icon>
+    <label>
+      <input type="text" placeholder="Filter" #filter (change)="filterPlaylist(filter.value)">
+    </label>
+  </div>
+  <br>
+  <table class="table table-borderless">
+    <thead>
+    <tr>
+      <th>#</th>
+      <th (click)="sortByName()">
+        Name
+        <fa-icon [icon]="faSort" class="ml-2"></fa-icon>
+      </th>
+      <th>
+        Public
+      </th>
+      <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    <ng-container *ngFor="let playlist of Playlists; let i = index">
+      <tr class="hover-row">
+        <td class="number">
+          {{i + 1}}
+        </td>
+        <td class="name">
+          {{playlist.PlaylistName}}
+        </td>
+        <td>
+          {{playlist.isPublic}}
+        </td>
+        <td>
+          <button class="btn" (click)="buttonClick(playlist.Id)">
+            <fa-icon [icon]="faTrash"></fa-icon>
+          </button>
+        </td>
+      </tr>
+    </ng-container>
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,63 @@
+.artist-container {
+  background-image: linear-gradient(#1B1E38, black);
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.table {
+  background-color: rgba(0, 0, 0, 0.0) !important;
+}
+
+th {
+  border-bottom: 1px solid #3E3E3E !important;
+  vertical-align: middle !important;
+  color: #CECECE !important;
+}
+
+td {
+  border-bottom: 1px solid #3E3E3E !important;
+  color: #CECECE !important;
+  font-size: 15px;
+  vertical-align: middle !important;
+}
+
+.name {
+  color: white !important;
+  font-size: 17px;
+}
+
+fa-icon {
+  color: #9198FF;
+}
+
+fa-icon:hover {
+  color: white;
+}
+
+.hover-row {
+  width: auto;
+}
+
+.hover-row:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.details {
+  border-top: 1px solid #3E3E3E !important;
+  border-bottom: 1px solid #3E3E3E !important;
+}
+
+.number {
+  width: 2cm;
+}
+
+input {
+  border: none;
+  background-color: transparent;
+  color: #CECECE;
+}
+
+.filter {
+  margin-left: 40px;
+}

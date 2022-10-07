@@ -1,0 +1,45 @@
+<ul ngbNav ="ngbNav" class="navbar navbar-dark">
+  <li ngbNavItem class="nav-item">
+    <a ngbNavLink routerLink="home">
+      <fa-icon [icon]="faHome"></fa-icon>
+      Home
+    </a>
+  </li>
+  <li ngbNavItem class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownSong" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Songs
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+      <a ngbNavLink routerLink="song">Songs list</a>
+      <br>
+      <a ngbNavLink routerLink="song/add">Add song</a>
+    </div>
+  </li>
+  <li ngbNavItem class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownArtist" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Artists
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+      <a ngbNavLink routerLink="artist">Artists list</a>
+      <a ngbNavLink routerLink="artist/add">Add artist</a>
+    </div>
+  </li>
+  <li ngbNavItem class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPlaylist" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Playlists
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+      <a ngbNavLink routerLink="playlist">Playlists list</a>
+      <a ngbNavLink routerLink="playlist/add">Add playlist</a>
+    </div>
+  </li>
+  <li ngbNavItem class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownRecordHouse" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Record Houses
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+      <a ngbNavLink routerLink="recordHouse">Record houses list</a>
+      <a ngbNavLink routerLink="recordHouse/add">Add record house</a>
+    </div>
+  </li>
+</ul>
