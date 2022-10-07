@@ -1,0 +1,12 @@
+group 'recordhouse'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'war'
+
+dependencies {
+    compile project(':core')
+    compile project(':shared')
+
+    compile group: 'org.springframework', name: 'spring-webmvc', version: '5.0.3.RELEASE'
+    compile group: 'javax.servlet', name: 'javax.servlet-api', version: '4.0.1'
+}

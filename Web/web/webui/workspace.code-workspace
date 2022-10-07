@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"configurations": [
+		{
+			"name": "Launch Chrome",
+			"type": "chrome",
+			"url": "http://localhost:4200",
+			"request": "launch",
+			"webRoot": "${workspaceFolder}"
+		}
+		]
+	}
+}

@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d79acc6e-f22a-440c-81c9-063fb8b453c7" name="Default Changelist" comment="Imported old project">
+      <change afterPath="$PROJECT_DIR$/web/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/webui/src/recordhouse/environment/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/webui/src/recordhouse/recordhouse.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/webui/src/recordhouse/song/song-new/song-new.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/webui/src/recordhouse/song/song-new/song-new.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/webui/src/recordhouse/song/song-new/song-new.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/webui/src/recordhouse/song/song-new/song-new.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/classes/java/main/recordhouse/Playlist/Command/AddPlaylistCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/classes/java/main/recordhouse/Playlist/Command/AddPlaylistCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/classes/java/main/recordhouse/PlaylistSong/command/AssignSongToPlaylistCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/classes/java/main/recordhouse/PlaylistSong/command/AssignSongToPlaylistCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/classes/java/main/recordhouse/shared/command/SpringCommandConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/classes/java/main/recordhouse/shared/command/SpringCommandConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/classes/java/main/rest/SpringRESTConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/classes/java/main/rest/SpringRESTConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/classes/java/main/rest/service/RESTSongArtistRelationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/classes/java/main/rest/service/RESTSongArtistRelationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/client/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/build/classes/java/main/controller/PlaylistController.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/build/classes/java/main/controller/PlaylistController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/components/footer/footer.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/app/components/footer/footer.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/components/footer/footer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/app/components/footer/footer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/components/footer/footer.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/app/components/footer/footer.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/components/footer/footer.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/app/components/footer/footer.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/components/header/header.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/app/components/header/header.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/components/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/app/components/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/components/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/app/components/header/header.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/playlist/playlist.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/recordhouse/playlist/component/playlist.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/playlist/playlist.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/recordhouse/playlist/component/playlist.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/playlist/playlist.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/recordhouse/playlist/component/playlist.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/playlist/playlist.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/recordhouse/playlist/component/playlist.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/playlist/playlist.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/recordhouse/playlist/playlist.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/playlist/playlist.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/recordhouse/playlist/playlist.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/app/playlist/playlist.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/recordhouse/playlist/playlist.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/webui/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webui/src/recordhouse/models/SongViewModel.interface.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Web" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qlMnNalYe70MSAmxWXDAYrikdb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/webui" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cata\Desktop\Anul 2\SDI\Lab1\lab5x-team-horatzio\Lab8\Web\core\src\main\java\recordhouse" />
+      <recent name="C:\Users\Cata\Desktop\Anul 2\SDI\Lab1\lab5x-team-horatzio\Lab8\Web\shared\src\main\java\service" />
+      <recent name="C:\Users\Cata\Desktop\Anul 2\SDI\Lab1\lab5x-team-horatzio\Lab8\Web\client\src\main\java\recordhouse\Playlist\Spring" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.TomPisica">
+    <configuration name="Client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="Web.client.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Don't click" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 9.0.44" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : recordhouse : web-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Web" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58931" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : recordhouse : web-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="TomPisica" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.44" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : recordhouse : web-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Web_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59005" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : recordhouse : web-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Tomcat Server.TomPisica" />
+      <item itemvalue="TomEE Server.Don't click" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d79acc6e-f22a-440c-81c9-063fb8b453c7" name="Default Changelist" comment="" />
+      <created>1617649897051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617649897051</updated>
+      <workItem from="1617649899644" duration="1581000" />
+      <workItem from="1618141251476" duration="14462000" />
+      <workItem from="1618160734445" duration="6751000" />
+      <workItem from="1618409060558" duration="657000" />
+      <workItem from="1618514995655" duration="814000" />
+      <workItem from="1618515840280" duration="791000" />
+      <workItem from="1618516955748" duration="3417000" />
+      <workItem from="1618775502008" duration="6148000" />
+      <workItem from="1620392573332" duration="3887000" />
+      <workItem from="1620412648116" duration="1789000" />
+    </task>
+    <task id="LOCAL-00001" summary="Lab8 REST and Core done for Playlist">
+      <created>1618158555601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618158555601</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Minor changes for Playlist">
+      <created>1618161810458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618161810458</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pentru prezenta">
+      <created>1618212723499</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618212723499</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Bug fixed">
+      <created>1618215892699</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618215892699</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Conflict defused">
+      <created>1618216832117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618216832117</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Imported old project">
+      <created>1618409281860</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618409281860</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="Lab8 REST and Core done for Playlist" />
+    <MESSAGE value="Minor changes for Playlist" />
+    <MESSAGE value="pentru prezenta" />
+    <MESSAGE value="Bug fixed" />
+    <MESSAGE value="Conflict defused" />
+    <MESSAGE value="Imported old project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Imported old project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="302" key="#TomEE_Server" timestamp="1617650138331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="302" key="#TomEE_Server/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1617650138331" />
+    <state x="223" y="49" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620392848269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="49" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620392848269" />
+    <state x="223" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1618517402233" />
+    <state x="498" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1618157610965">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1618157610965" />
+    <state x="500" y="55" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1617650423121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="55" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1617650423121" />
+    <state x="548" y="165" key="FileChooserDialogImpl" timestamp="1620398057094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1081" y="-378" key="FileChooserDialogImpl/0.0.1536.824/-1680.-580.1680.1010@-1680.-580.1680.1010" timestamp="1618409721379" />
+    <state x="548" y="165" key="FileChooserDialogImpl/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620398057094" />
+    <state width="1024" height="299" key="GridCell.Tab.0.bottom" timestamp="1620475090666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="299" key="GridCell.Tab.0.bottom/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620475090666" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618825287624" />
+    <state width="1024" height="299" key="GridCell.Tab.0.center" timestamp="1620475090665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="299" key="GridCell.Tab.0.center/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620475090665" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618825287624" />
+    <state width="1024" height="299" key="GridCell.Tab.0.left" timestamp="1620475090665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="299" key="GridCell.Tab.0.left/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620475090665" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618825287624" />
+    <state width="1024" height="299" key="GridCell.Tab.0.right" timestamp="1620475090666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="299" key="GridCell.Tab.0.right/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620475090666" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618825287624" />
+    <state width="1024" height="299" key="GridCell.Tab.1.bottom" timestamp="1620404012158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="299" key="GridCell.Tab.1.bottom/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620404012158" />
+    <state width="1024" height="463" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618825287611" />
+    <state width="1024" height="299" key="GridCell.Tab.1.center" timestamp="1620404012157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="299" key="GridCell.Tab.1.center/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620404012157" />
+    <state width="1024" height="463" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1618825287611" />
+    <state width="1024" height="299" key="GridCell.Tab.1.left" timestamp="1620404012157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="299" key="GridCell.Tab.1.left/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620404012157" />
+    <state width="1024" height="463" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1618825287611" />
+    <state width="1024" height="299" key="GridCell.Tab.1.right" timestamp="1620404012158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="299" key="GridCell.Tab.1.right/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620404012158" />
+    <state width="1024" height="463" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1618825287611" />
+    <state width="1024" height="299" key="GridCell.Tab.2.bottom" timestamp="1620404012158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="299" key="GridCell.Tab.2.bottom/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620404012158" />
+    <state width="1024" height="463" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618825287613" />
+    <state width="1024" height="299" key="GridCell.Tab.2.center" timestamp="1620404012158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="299" key="GridCell.Tab.2.center/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620404012158" />
+    <state width="1024" height="463" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1618825287613" />
+    <state width="1024" height="299" key="GridCell.Tab.2.left" timestamp="1620404012158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="299" key="GridCell.Tab.2.left/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620404012158" />
+    <state width="1024" height="463" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1618825287611" />
+    <state width="1024" height="299" key="GridCell.Tab.2.right" timestamp="1620404012158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="299" key="GridCell.Tab.2.right/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1620404012158" />
+    <state width="1024" height="463" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1618825287613" />
+    <state x="147" y="65" key="MergeDialog" timestamp="1618216754726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="MergeDialog/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1618142485719" />
+    <state x="147" y="65" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1618216754726" />
+    <state x="407" y="174" key="MultipleFileMergeDialog" timestamp="1618216754748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1618142490104" />
+    <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1618216754748" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1618516819413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1618516819413" />
+    <state x="-1285" y="-402" key="Vcs.Push.Dialog.v2" timestamp="1618409295199">
+      <screen x="-1680" y="-580" width="1680" height="1010" />
+    </state>
+    <state x="-1285" y="-402" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1680.-580.1680.1010@-1680.-580.1680.1010" timestamp="1618409295199" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1618158562181" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1618216843312" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618216471170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1680.-580.1680.1010@0.0.1536.824" timestamp="1618141324050" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1618216471170" />
+    <state x="-6" y="0" width="781" height="830" key="dock-window-1" timestamp="1618151872291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="781" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1618151872291" />
+    <state x="-6" y="0" width="781" height="830" key="dock-window-2" timestamp="1618153175041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="781" height="830" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1618153175041" />
+    <state x="-6" y="0" width="781" height="830" key="dock-window-3" timestamp="1618153175041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="781" height="830" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1618153175041" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1618817107408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1618817107408" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/client/src/main/java/rest/RESTInvocationHandler.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

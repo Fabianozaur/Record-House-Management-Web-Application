@@ -1,0 +1,7 @@
+package recordhouse.ArtistRecordHouseRelation.repository.jpa;
+
+import org.springframework.data.repository.CrudRepository;
+import recordhouse.ArtistRecordHouseRelation.domain.ArtistRecordHouseRelationEntityModel;
+
+public interface ArtistRecordHouseRelationRepositoryInterface extends CrudRepository<ArtistRecordHouseRelationEntityModel, ArtistRecordHouseRelationEntityModel> {
+}

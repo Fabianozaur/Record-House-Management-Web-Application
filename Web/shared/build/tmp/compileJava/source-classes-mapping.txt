@@ -1,0 +1,156 @@
+shared/channel/FatalChannelError.java
+ shared.channel.FatalChannelError
+design/persistance/xml/XmlOf.java
+ design.persistance.xml.XmlOf
+design/converter/ReversibleConverter.java
+ design.converter.ReversibleConverter
+service/Artist/ArtistServiceError.java
+ service.Artist.ArtistServiceError
+shared/converter/SpringConverterConfiguration.java
+ shared.converter.SpringConverterConfiguration
+service/SongArtist/SongArtistRelationServiceError.java
+ service.SongArtist.SongArtistRelationServiceError
+design/functional/EmptyConsumer.java
+ design.functional.EmptyConsumer
+service/Artist/ArtistService.java
+ service.Artist.ArtistService
+design/mediator/RequestResult.java
+ design.mediator.RequestResult
+shared/properties/PropertiesLoaderError.java
+ shared.properties.PropertiesLoaderError
+design/persistance/serialization/SerializerConverter.java
+ design.persistance.serialization.SerializerConverter
+design/channel/BidirectionalChannel.java
+ design.channel.BidirectionalChannel
+shared/channel/console/ConsoleChannel.java
+ shared.channel.console.ConsoleChannel
+shared/converter/Song/SongViewModelDeserializer.java
+ shared.converter.Song.SongViewModelDeserializer
+shared/properties/PropertiesLoader.java
+ shared.properties.PropertiesLoader
+shared/channel/BaseFileChannel.java
+ shared.channel.BaseFileChannel
+design/exception/ApplicationException.java
+ design.exception.ApplicationException
+service/ArtistRecordHouse/ArtistRecordHouseRelationService.java
+ service.ArtistRecordHouse.ArtistRecordHouseRelationService
+design/channel/ChannelError.java
+ design.channel.ChannelError
+design/persistance/jpa/EntityModelOf.java
+ design.persistance.jpa.EntityModelOf
+service/Playlist/PlaylistService.java
+ service.Playlist.PlaylistService
+design/persistance/db/query/Query.java
+ design.persistance.db.query.Query
+shared/converter/SimpleDateDeserializer.java
+ shared.converter.SimpleDateDeserializer
+service/Song/SongViewModel.java
+ service.Song.SongViewModel
+service/Song/SongServiceError.java
+ service.Song.SongServiceError
+design/converter/Converter.java
+ design.converter.Converter
+design/mediator/Mediator.java
+ design.mediator.Mediator
+design/channel/UploadChannel.java
+ design.channel.UploadChannel
+design/validation/ValidatorException.java
+ design.validation.ValidatorException
+shared/converter/SimpleDateSerializer.java
+ shared.converter.SimpleDateSerializer
+service/PlaylistSong/PlaylistSongRelationViewModel.java
+ service.PlaylistSong.PlaylistSongRelationViewModel
+design/domain/Composite.java
+ design.domain.Composite
+design/command/CommandMatcher.java
+ design.command.CommandMatcher
+design/mediator/RequestHandler.java
+ design.mediator.RequestHandler
+design/persistance/db/query/DeleteQuery.java
+ design.persistance.db.query.DeleteQuery
+design/persistance/db/TableModelOf.java
+ design.persistance.db.TableModelOf
+design/persistance/jpa/EntityModelConverter.java
+ design.persistance.jpa.EntityModelConverter
+service/PlaylistSong/PlaylistSongRelationService.java
+ service.PlaylistSong.PlaylistSongRelationService
+design/persistance/db/query/SelectQuery.java
+ design.persistance.db.query.SelectQuery
+design/persistance/db/query/InsertQuery.java
+ design.persistance.db.query.InsertQuery
+design/persistance/xml/XmlModelCollection.java
+ design.persistance.xml.XmlModelCollection
+service/Playlist/PlaylistServiceError.java
+ service.Playlist.PlaylistServiceError
+shared/converter/Playlist/PlaylistViewModelSerializer.java
+ shared.converter.Playlist.PlaylistViewModelSerializer
+design/persistance/xml/XmlModel.java
+ design.persistance.xml.XmlModel
+service/Song/SongService.java
+ service.Song.SongService
+spring/ApplicationContext.java
+ spring.ApplicationContext
+design/command/BaseReceiver.java
+ design.command.BaseReceiver
+design/validation/IdentityValidator.java
+ design.validation.IdentityValidator
+service/SongArtist/SongArtistRelationService.java
+ service.SongArtist.SongArtistRelationService
+design/mediator/Request.java
+ design.mediator.Request
+design/persistance/db/CommandSet.java
+ design.persistance.db.CommandSet
+design/persistance/db/TableResultConverter.java
+ design.persistance.db.TableResultConverter
+design/persistance/db/TableModelConverter.java
+ design.persistance.db.TableModelConverter
+design/persistance/serialization/SerializableOf.java
+ design.persistance.serialization.SerializableOf
+design/persistance/xml/XmlConverter.java
+ design.persistance.xml.XmlConverter
+service/Playlist/PlaylistViewModel.java
+ service.Playlist.PlaylistViewModel
+shared/channel/console/ConsoleStreamError.java
+ shared.channel.console.ConsoleStreamError
+design/persistance/jpa/EntityModel.java
+ design.persistance.jpa.EntityModel
+design/domain/RelationConverter.java
+ design.domain.RelationConverter
+design/channel/DownloadChannel.java
+ design.channel.DownloadChannel
+shared/converter/Playlist/PlaylistViewModelDeserializer.java
+ shared.converter.Playlist.PlaylistViewModelDeserializer
+design/persistance/db/TableModel.java
+ design.persistance.db.TableModel
+design/exception/FatalError.java
+ design.exception.FatalError
+service/PlaylistSong/PlaylistSongRelationServiceError.java
+ service.PlaylistSong.PlaylistSongRelationServiceError
+design/command/Command.java
+ design.command.Command
+design/persistance/db/query/QueryError.java
+ design.persistance.db.query.QueryError
+service/SongArtist/SongArtistRelationViewModel.java
+ service.SongArtist.SongArtistRelationViewModel
+design/domain/BaseEntity.java
+ design.domain.BaseEntity
+design/persistance/db/query/UpdateQuery.java
+ design.persistance.db.query.UpdateQuery
+service/ArtistRecordHouse/ArtistRecordHouseRelationViewModel.java
+ service.ArtistRecordHouse.ArtistRecordHouseRelationViewModel
+shared/converter/Song/SongViewModelSerializer.java
+ shared.converter.Song.SongViewModelSerializer
+design/domain/Relation.java
+ design.domain.Relation
+design/validation/Validator.java
+ design.validation.Validator
+shared/converter/Artist/ArtistViewModelSerializer.java
+ shared.converter.Artist.ArtistViewModelSerializer
+design/persistance/db/Transaction.java
+ design.persistance.db.Transaction
+service/Artist/ArtistViewModel.java
+ service.Artist.ArtistViewModel
+service/ArtistRecordHouse/ArtistRecordHouseRelationServiceError.java
+ service.ArtistRecordHouse.ArtistRecordHouseRelationServiceError
+shared/converter/Artist/ArtistViewModelDeserializer.java
+ shared.converter.Artist.ArtistViewModelDeserializer
